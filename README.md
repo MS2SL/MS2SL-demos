@@ -9,7 +9,8 @@ performance in producing signs from both speech and text data.
 
 # How2Sign
 ## Text-to-Sign
-![image](./samples/ss_dereverb/1221-135766-0003.png)
+**Text:**
+
 <table style="width: 112%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Method1 </td>
@@ -27,5 +28,24 @@ performance in producing signs from both speech and text data.
     </tr>
 </table>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Text:**
+
+<table style="width: 112%; margin-left: auto; margin-right: auto;">
+    <tr>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Method1 </td>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Method1 </td>
+	<td> &nbsp;&nbsp;&nbsp;Method1 </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Method1 </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Method1 </td>
+    </tr>
+    <tr>
+    	<td><audio src="./samples/ss_reverb/source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/gt_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/image2reverb/metric_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/avatir/vida_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+    </tr>
+</table>
 ## Audio-to-Sign
