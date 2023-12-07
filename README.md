@@ -20,11 +20,11 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><audio src="./samples/ss_reverb/source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/gt_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/image2reverb/metric_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/avatir/vida_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
     </tr>
 </table>
 
@@ -41,13 +41,32 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><audio src="./samples/ss_reverb/source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/gt_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/image2reverb/metric_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/avatir/vida_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
     </tr>
 </table>
 
 
 ## Audio-to-Sign
+
+<audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio>
+
+<table style="width: 100%; margin-left: auto; margin-right: auto;">
+    <tr>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raw video </td>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
+	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
+    </tr>
+    <tr>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+    	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+	<td><video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video> </td>
+    </tr>
+</table>
