@@ -11,7 +11,7 @@ performance in producing signs from both speech and text data.
 ## Text-to-Sign
 **Text:**
 
-<table style="width: 112%; margin-left: auto; margin-right: auto;">
+<table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Method1 </td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Method1 </td>
@@ -32,7 +32,7 @@ performance in producing signs from both speech and text data.
 
 **Text:**
 
-<table style="width: 112%; margin-left: auto; margin-right: auto;">
+<table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Method1 </td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Method1 </td>
