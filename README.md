@@ -20,11 +20,11 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="path_to_your_gif.gif" width="120" height="80"></td>
-    	<td><img src="path_to_your_gif.gif" width="120" height="80"></td>
-    	<td><img src="path_to_your_gif.gif" width="120" height="80"></td>
-	<td><img src="path_to_your_gif.gif" width="120" height="80"></td>
-	<td><img src="path_to_your_gif.gif" width="120" height="80"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
     </tr>
 </table>
 
