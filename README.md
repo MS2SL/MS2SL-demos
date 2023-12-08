@@ -13,7 +13,7 @@ performance in producing signs from both speech and text data.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raw video </td>
+    	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
 	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
@@ -34,11 +34,11 @@ performance in producing signs from both speech and text data.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raw video </td>
+    	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
 	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
     	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
@@ -57,11 +57,11 @@ performance in producing signs from both speech and text data.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raw video </td>
+    	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
 	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
     	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
@@ -79,11 +79,11 @@ performance in producing signs from both speech and text data.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raw video </td>
+    	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
 	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
     	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
