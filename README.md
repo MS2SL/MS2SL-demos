@@ -30,7 +30,7 @@ performance in producing signs from both speech and text data.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Text:**
+**Text:** I have got some leather mittens here.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
