@@ -42,10 +42,10 @@ performance in producing signs from both speech and text data.
     </tr>
     <tr>
     	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+    	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
     </tr>
 </table>
 
