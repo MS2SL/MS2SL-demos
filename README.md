@@ -9,7 +9,7 @@ performance in producing signs from both speech and text data.
 
 # How2Sign
 ## Text-to-Sign
-**Text:**
+**Text:** Let me demonstrate you this on my back because it's a lot easier.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
