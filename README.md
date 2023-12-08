@@ -20,11 +20,11 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+    	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/g0iPSnQt6w_14-1-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
     </tr>
 </table>
 
@@ -41,11 +41,11 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+    	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
     </tr>
 </table>
 
@@ -64,11 +64,11 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
     </tr>
 </table>
 
@@ -86,10 +86,10 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="76"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
     </tr>
 </table>
