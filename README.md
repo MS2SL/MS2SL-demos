@@ -52,9 +52,8 @@ performance in producing signs from both speech and text data.
 
 ## Audio-to-Sign
 
-**Text:**
+**Text:** And I'm actually going to lock my wrists when I pike.
 <audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio>
-
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
@@ -64,17 +63,18 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
     </tr>
 </table>
 
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Text:**
+**Text:** The rudder is the vertical stabilizer.
 <audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio>
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
@@ -86,10 +86,10 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-    	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
-	<td><img src="path_to_your_gif.gif" width="114" height="150"></td>
+    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
     </tr>
 </table>
