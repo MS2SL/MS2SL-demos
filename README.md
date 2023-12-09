@@ -63,11 +63,11 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/-g0iPSnQt6w_12-1-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/gt--g0iPSnQt6w_12-1-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ham2pose--g0iPSnQt6w_12-1-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/t2m-gpt--g0iPSnQt6w_12-1-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ms2sl--g0iPSnQt6w_12-1-rgb_front_slow.gif" width="114" height="150"></td>
     </tr>
 </table>
 
@@ -86,10 +86,10 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
+    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/-fZc293MpJk_6-1-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/gt--fZc293MpJk_6-1-rgb_front.gif" width="114" height="150"></td>
+    	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/ham2pose--fZc293MpJk_6-1-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/t2m-gpt--fZc293MpJk_6-1-rgb_front_slow.gif" width="114" height="150"></td>
+	<td><img src="samples/-fZc293MpJk_7-1-rgb_front/ms2sl--fZc293MpJk_6-1-rgb_front_slow.gif" width="114" height="150"></td>
     </tr>
 </table>
