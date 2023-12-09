@@ -53,7 +53,7 @@ performance in producing signs from both speech and text data.
 ## Audio-to-Sign
 
 **Text:** And I'm actually going to lock my wrists when I pike.
-<audio src="./samples/-g0iPSnQt6w_12-1/-g0iPSnQt6w_12-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
+<audio src="./samples/-g0iPSnQt6w_12-1-rgb_front/-g0iPSnQt6w_12-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
@@ -75,7 +75,7 @@ performance in producing signs from both speech and text data.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Text:** The rudder is the vertical stabilizer.
-<audio src="./samples/-fZc293MpJk_6-1/-fZc293MpJk_6-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
+<audio src="./samples/-fZc293MpJk_6-1-rgb_front/-fZc293MpJk_6-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
