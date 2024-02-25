@@ -16,7 +16,7 @@ performance in producing signs from both speech and text data.
     	<td> Raw Video</td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</td>
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOMP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-	<td> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ham2Pose &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; Ham2Pose &nbsp;&nbsp;&nbsp;&nbsp;</td>
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; T2M-GPT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
