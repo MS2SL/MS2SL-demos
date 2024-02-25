@@ -15,12 +15,13 @@ performance in producing signs from both speech and text data.
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
+	<td> &nbsp;&nbsp;&nbsp; MOMP </td>
 	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
     </tr>
     <tr>
-    	<img src="samples/g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="884" height="150" alt="WebP Image">
+    	<img src="samples/g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
 	<!--
 	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/g0iPSnQt6w_14-1-rgb_front.gif" width="114" height="150"></td>
     	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/gt--g0iPSnQt6w_14-1-rgb_front.gif" width="114" height="150"></td>
