@@ -39,11 +39,12 @@ performance in producing signs from both speech and text data.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
-    	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
-	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
+    	<td> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Raw video  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</td>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOMP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ham2Pose &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     </tr>
     <tr>
     	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
