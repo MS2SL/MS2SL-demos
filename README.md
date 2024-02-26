@@ -13,7 +13,7 @@ performance in producing signs from both speech and text data.
 
 <table style="width: 100%; margin-left: auto; margin-right: auto;">
     <tr>
-    	<td> <p>Raw Video width="164"; </p>  </td>
+    	<td> <p>Raw Video  </p> width="164"; </td>
     	<td> &nbsp;&nbsp;&nbsp; GT  &nbsp;&nbsp;</td>
 	<td> &nbsp;&nbsp; MOMP &nbsp;</td>
 	<td> &nbsp;Ham2Pose &nbsp;</td>
