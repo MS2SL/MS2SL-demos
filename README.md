@@ -47,12 +47,14 @@ performance in producing signs from both speech and text data.
 	<td> &nbsp;&nbsp;&nbsp; Ours &nbsp;&nbsp;</td>
     </tr>
     <tr>
+	<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
+	<!--
     	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
     	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
     	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
 	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
 	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-
+	 -->
     </tr>
 </table>
 
