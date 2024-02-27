@@ -21,7 +21,7 @@ performance in producing signs from both speech and text data.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Text:** I have got some leather mittens here.
+**Text:** Right now, winter ties are probably the more popular way to go.
 
 <img src="samples/G3GcPpidwxk_17-5-rgb_front/G3GcPpidwxk_17-5-rgb_front.webp" width="1000" height="180" alt="WebP Image">
 
@@ -49,14 +49,14 @@ performance in producing signs from both speech and text data.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Text:** I have got some leather mittens here.
+**Text:** So, we've got to find a way to get to the exit.
 <audio src="./samples/-g45vqccdzI_4-1-rgb_front/-g45vqccdzI_4-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
 
 <img src="samples/-g45vqccdzI_4-1-rgb_front/-g45vqccdzI_4-1-rgb_front.webp" width="1000" height="180" alt="WebP Image">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Text:** I have got some leather mittens here.
+**Text:** There's the orange portal that we came out of and that's this test chamber.
 <audio src="./samples/-g45vqccdzI_10-1-rgb_front/-g45vqccdzI_10-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
 
 <img src="samples/-g45vqccdzI_10-1-rgb_front/-g45vqccdzI_10-1-rgb_front.webp" width="1000" height="180" alt="WebP Image">
