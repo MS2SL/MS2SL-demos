@@ -11,7 +11,7 @@ performance in producing signs from both speech and text data.
 ## Text-to-Sign
 **Text:** Let me demonstrate you this on my back because it's a lot easier.
 
-<img src="samples/g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
+<img src="samples/-g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
 	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
