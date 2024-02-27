@@ -17,48 +17,15 @@ performance in producing signs from both speech and text data.
 
 **Text:** I have got some leather mittens here.
 
-<table style="width: 100%; margin-left: auto; margin-right: auto;">
-    <tr>
-    	<td> Raw Video</td>
-    	<td> &nbsp;&nbsp;&nbsp; GT  &nbsp;&nbsp;</td>
-	<td> &nbsp;&nbsp; MOMP &nbsp;</td>
-	<td> &nbsp;Ham2Pose &nbsp;</td>
-	<td> &nbsp;&nbsp;  T2M-GPT &nbsp;&nbsp;</td>
-	<td> &nbsp;&nbsp;&nbsp; Ours &nbsp;&nbsp;</td>
-    </tr>
-    <tr>
-	<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
-	<!--
-    	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/gt-fzOH00UZg84_2-8-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/ham2pose-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/t2m-gpt-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/fzOH00UZg84_2-8-rgb_front/ms2sl-fzOH00UZg84_2-8-rgb_front_slow.gif" width="114" height="150"></td>
-	 -->
-    </tr>
-</table>
-
+<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
+	
 
 ## Audio-to-Sign
 
 **Text:** And I'm actually going to lock my wrists when I pike.
 <audio src="./samples/-g0iPSnQt6w_12-1-rgb_front/-g0iPSnQt6w_12-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
-<table style="width: 100%; margin-left: auto; margin-right: auto;">
-    <tr>
-    	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
-	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
-    </tr>
-    <tr>
-    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/-g0iPSnQt6w_12-1-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/gt--g0iPSnQt6w_12-1-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ham2pose--g0iPSnQt6w_12-1-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/t2m-gpt--g0iPSnQt6w_12-1-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-g0iPSnQt6w_12-1-rgb_front/ms2sl--g0iPSnQt6w_12-1-rgb_front_slow.gif" width="114" height="150"></td>
-    </tr>
-</table>
+
+<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -66,19 +33,4 @@ performance in producing signs from both speech and text data.
 **Text:** The rudder is the vertical stabilizer.
 <audio src="./samples/-fZc293MpJk_6-1-rgb_front/-fZc293MpJk_6-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
 
-<table style="width: 100%; margin-left: auto; margin-right: auto;">
-    <tr>
-    	<td> &nbsp;&nbsp;&nbsp;Raw video </td>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
-	<td> &nbsp;&nbsp;&nbsp; Ham2Pose </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; T2M-GPT </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ours </td>
-    </tr>
-    <tr>
-    	<td><img src="samples/-fZc293MpJk_6-1-rgb_front/-fZc293MpJk_6-1-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-fZc293MpJk_6-1-rgb_front/gt--fZc293MpJk_6-1-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/-fZc293MpJk_6-1-rgb_front/ham2pose--fZc293MpJk_6-1-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-fZc293MpJk_6-1-rgb_front/t2m-gpt--fZc293MpJk_6-1-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/-fZc293MpJk_6-1-rgb_front/ms2sl--fZc293MpJk_6-1-rgb_front_slow.gif" width="114" height="150"></td>
-    </tr>
-</table>
+<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
