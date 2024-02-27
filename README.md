@@ -11,28 +11,8 @@ performance in producing signs from both speech and text data.
 ## Text-to-Sign
 **Text:** Let me demonstrate you this on my back because it's a lot easier.
 
-<table style="width: 100%; margin-left: auto; margin-right: auto;">
-    <tr>
-    	<td>Raw Video</td>
-    	<td> GT &nbsp;</td>
-	<td> &nbsp;&nbsp; MOMP &nbsp;</td>
-	<td> &nbsp;Ham2Pose &nbsp;</td>
-	<td> &nbsp;&nbsp;  T2M-GPT &nbsp;&nbsp;</td>
-	<td> &nbsp;&nbsp;&nbsp; Ours &nbsp;&nbsp;</td>
-    </tr>
-    <tr>
-    	<img src="samples/g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
-	<!--
-	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/g0iPSnQt6w_14-1-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/gt--g0iPSnQt6w_14-1-rgb_front.gif" width="114" height="150"></td>
-    	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/ham2pose--g0iPSnQt6w_14-1-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/t2m-gpt--g0iPSnQt6w_14-1-rgb_front_slow.gif" width="114" height="150"></td>
-	<td><img src="samples/g0iPSnQt6w_14-1-rgb_front/ms2sl--g0iPSnQt6w_14-1-rgb_front_slow.gif" width="114" height="150"></td>
-	 -->
-    </tr>
-	   
-</table>
-
+<img src="samples/g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
+	
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Text:** I have got some leather mittens here.
