@@ -24,14 +24,13 @@ performance in producing signs from both speech and text data.
 
 **Text:** I have got some leather mittens here.
 
-<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="1000" height="180" alt="WebP Image">
-
+<img src="samples/-g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="1000" height="180" alt="WebP Image">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Text:** I have got some leather mittens here.
 
-<img src="samples/-g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="1000" height="180" alt="WebP Image">
+<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="1000" height="180" alt="WebP Image">
 	
 
 ## Audio-to-Sign
