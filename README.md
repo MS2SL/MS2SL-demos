@@ -11,8 +11,20 @@ performance in producing signs from both speech and text data.
 ## Text-to-Sign
 **Text:** Let me demonstrate you this on my back because it's a lot easier.
 
-<img src="samples/-g0iPSnQt6w_14-1-rgb_front/-g0iPSnQt6w_14-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
+<img src="samples/G3GcPpidwxk_9-5-rgb_front/G3GcPpidwxk_9-5-rgb_front.webp" width="984" height="150" alt="WebP Image">
 	
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Text:** I have got some leather mittens here.
+
+<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Text:** I have got some leather mittens here.
+
+<img src="samples/G3GcPpidwxk_17-5-rgb_front/G3GcPpidwxk_17-5-rgb_front.webp" width="984" height="150" alt="WebP Image">
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Text:** I have got some leather mittens here.
@@ -25,7 +37,7 @@ performance in producing signs from both speech and text data.
 **Text:** And I'm actually going to lock my wrists when I pike.
 <audio src="./samples/-g0iPSnQt6w_12-1-rgb_front/-g0iPSnQt6w_12-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
 
-<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
+<img src="samples/-g0iPSnQt6w_12-1-rgb_front/-g0iPSnQt6w_12-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,4 +45,18 @@ performance in producing signs from both speech and text data.
 **Text:** The rudder is the vertical stabilizer.
 <audio src="./samples/-fZc293MpJk_6-1-rgb_front/-fZc293MpJk_6-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
 
-<img src="samples/fzOH00UZg84_2-8-rgb_front/fzOH00UZg84_2-8-rgb_front.webp" width="984" height="150" alt="WebP Image">
+<img src="samples/-fZc293MpJk_6-1-rgb_front/-fZc293MpJk_6-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Text:** I have got some leather mittens here.
+<audio src="./samples/-g45vqccdzI_4-1-rgb_front/-g45vqccdzI_4-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
+
+<img src="samples/-g45vqccdzI_4-1-rgb_front/-g45vqccdzI_4-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Text:** I have got some leather mittens here.
+<audio src="./samples/-g45vqccdzI_10-1-rgb_front/-g45vqccdzI_10-1-rgb_front.mp3" controls style="width: 300px;" type="audio/mpeg"></audio>
+
+<img src="samples/-g45vqccdzI_10-1-rgb_front/-g45vqccdzI_10-1-rgb_front.webp" width="984" height="150" alt="WebP Image">
